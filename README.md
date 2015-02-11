@@ -2,6 +2,8 @@
 
 A simple 5x13 LED Matrix using SIPO shift registers to allow individual addressing of 65 LED's via 8 digital GPIO's.
 
+![circuit schematic](assets/LED_array_clock.png)
+
 ## Why?
 
 This is noting revolutionary, and it's certainly been done a million times before, but never by me. This is essentially
