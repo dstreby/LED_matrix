@@ -1,4 +1,4 @@
-update=Tue 10 Feb 2015 06:38:05 PM EST
+update=Mon 02 Mar 2015 12:28:04 PM EST
 version=1
 last_client=eeschema
 [cvpcb]
@@ -47,7 +47,7 @@ LibName16=valves
 version=1
 [eeschema]
 version=1
-LibDir=/home/daniel/personal/kicad/libraries/kicaduino-read-only/uno/share/library
+LibDir=/home/daniel/personal/kicad/libraries/kicad-lib
 NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
@@ -84,5 +84,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=arduino
-LibName32=/home/daniel/personal/kicad/libraries/kicaduino-read-only/uno/kicad-uno-cache
+LibName31=RTC
