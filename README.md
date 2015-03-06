@@ -2,8 +2,8 @@
 
 A simple clock with 16x5 LED Matrix display using SIPO shift registers to allow individual addressing of 80 LED's via 8 digital GPIO's. Timing provided via RTC with XTAL.
 
-![circuit schematic](assets/LED_array_clock.png)
-![circuit schematic](assets/LED_Matrix.png)
+![circuit schematic](assets/img/LED_array_clock.png)
+![circuit schematic](assets/img/LED_Matrix.png)
 
 ## Why?
 
