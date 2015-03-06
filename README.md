@@ -1,6 +1,6 @@
 ## LED Matrix Clock
 
-A simple 5x16 LED Matrix using SIPO shift registers to allow individual addressing of 80 LED's via 8 digital GPIO's. Timing provided via RTC with XTAL.
+A simple clock with 16x5 LED Matrix display using SIPO shift registers to allow individual addressing of 80 LED's via 8 digital GPIO's. Timing provided via RTC with XTAL.
 
 ![circuit schematic](assets/LED_array_clock.png)
 ![circuit schematic](assets/LED_Matrix.png)
@@ -8,8 +8,8 @@ A simple 5x16 LED Matrix using SIPO shift registers to allow individual addressi
 ## Why?
 
 This is noting revolutionary, and it's certainly been done a million times before, but never by me. This is essentially
-a learning experience for me. I've decided on a 5x16 matrix size as it will be convenient to adopt into a digital clock
-using a 5x3 digits, plus ":" and spaces.
+a learning experience for me. I've decided on a 16x5 matrix size as it will be convenient to adopt into a digital clock
+using a 3x5 digits, plus ":" and spaces.
 
 ## What's in the repo?
 
